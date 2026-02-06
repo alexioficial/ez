@@ -2,5 +2,9 @@
 name = "ez"
 version = "0.1.0"
 edition = "2024"
+authors = ["alexioficial <grullonmatiasalexi@gmail.com>"]
+license = "MPL-2.0"
 
 [dependencies]
+crossterm = "0.29.0"
+ratatui = "0.30.0"
